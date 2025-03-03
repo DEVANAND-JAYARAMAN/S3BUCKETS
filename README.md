@@ -27,7 +27,7 @@ Go to the Properties tab.
 Scroll down to Static website hosting and click Edit.
 Select Enable and choose Host a static website.
 Set index.html as the default document.
-Click Save changes.
+Click Save changes. 
 Step 5: Make Files Public
 Adjust bucket permissions to allow public access.
 Apply a Bucket Policy to grant read access.
